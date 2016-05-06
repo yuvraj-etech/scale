@@ -1,0 +1,120 @@
+body{
+	color: #788288;
+}
+#loginContainer{
+	padding: 16px;
+}
+.loginFormHead{
+	padding-top: 15px;
+	text-align: center;
+}
+.loginFormHead h3{
+	font-size: 30px;
+    font-weight: bold;
+    color: #788288;
+}
+.loginUserTypeText{
+	font-size: 18px;
+	color: #788288;
+}
+.btn-block {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.btn {
+    font-weight: 500;
+    border-radius: 2px;
+}
+
+.btn-primary {
+    color: #fff !important;
+    background-color: #177bbb;
+    border-color: #177bbb;
+}
+.signIn{
+	margin-top: 20px;
+}
+.no-pad-left-right{
+	padding-left: 0px!important;
+	padding-right: 0px!important;
+}
+.p-t-10{
+	padding-top: 10px;
+}
+.p-b-10{
+	padding-bottom: 10px;
+}
+.m-t-15{
+	margin-top: 15px;
+}
+.m-b-15{
+	margin-bottom: 15px;
+}
+.font-18{
+	font-size: 18px;
+}
+.border-grey {
+    border: 1px solid #7A7A79;
+    height: 1px;
+}
+.margin-top-or {
+    margin-top: -14px;
+    font-size: 19px;
+    padding-bottom: 5px;
+}
+.btn-facebook {
+    background-color: #3B5998;
+    font-size: 16px;
+}
+.btn-width {
+    width: 100%;
+}
+.btn-google {
+    background-color: #DB4A39;
+    margin-top: 15px;
+    font-size: 16px;
+}
+.fa-float-left {
+    float: left;
+    margin-top: 4px;
+}
+
+
+.customer-header{
+	background-color: #595959!important;
+}
+.customer-header .button {
+    border-color: transparent;
+    background-color: #595959!important;
+    color: #fff;
+}
+.customer-header .button i {
+    font-size: 24px;
+}
+.logo{
+	max-width: 30px;
+}
+.welcome-text{
+	font-size: 17px;
+    font-family: 'SEGOEUIL';
+    font-weight: bold;
+}
+.checkin-circle {
+    text-align: center;
+    height: 192px;
+    width: 192px;
+    font-size: 33px;
+    font-weight: bold;
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+    border-radius: 145px;
+    background-color: #0070c0;
+    color: #fff;
+    -moz-box-shadow: 6px 2px 12px #3a3939;
+    -webkit-box-shadow: 6px 2px 12px #3a3939;
+    box-shadow: 6px 2px 12px #3a3939;
+    margin: 18px auto;
+}
+.checin-text {
+    margin-top: 36px;
+}
